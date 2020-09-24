@@ -7,7 +7,7 @@ echo.
 pause
 mkdir build
 cmake -S .\ -B .\build -G "Visual Studio 16 2019" -A "Win32"
-mkdir .\build\src\Debug\bin
-copy .\bin .\build\src\Debug\bin\
-mkdir .\build\src\bin
-copy .\bin .\build\src\bin\
+mkdir .\build\src\Debug\data
+copy .\data .\build\src\Debug\data\
+mkdir .\build\src\data
+copy .\data .\build\src\data\
