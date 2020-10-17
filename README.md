@@ -13,4 +13,4 @@ HUST, CSE, 2020 Program Design Course, Course design
 1. Install and configure the above development environment, dependencies and project generation tools.
 2. After running the script `BuildProject.bat` and continuing, the VS project can be automatically generated. (PS: The CMake command used in the script may be detected by the antivirus software, please exit the antivirus software and run the script.)
 3. Use the VS 2019 to open the `VegInfoSystem.sln` project file in the `build` folder, right-click on "VegInfoSystem" in the "Solution Explorer" window and select "Set as Startup Project", then you can compile and run the project.
-* PS: Data files in the directory `bin`.
+* PS: Data files in the directory `data`.
