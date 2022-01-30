@@ -1,6 +1,6 @@
 # Vegetable Planting Information Management System
 
-HUST, CSE, 2020 Program Design Course, Course design
+HUST, CSE, IS, 2020 Program Design Course, Course design
 
 ## Development environment and dependencies
 1. Development and operating environment: Windows 10 x64.
